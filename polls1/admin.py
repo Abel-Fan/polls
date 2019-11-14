@@ -20,7 +20,6 @@ class QuestionAdmin(admin.ModelAdmin):
 
 
 
-
 @admin.register(Choices)
 class ChoiceAdmin(admin.ModelAdmin):
     """

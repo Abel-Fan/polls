@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="207b964c-232e-4bed-8e3f-56249adc9586" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polls1/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls1/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls1/templates/polls1/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls1/templates/polls1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls1/templates/polls1/question.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls1/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls1/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls1/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573630077410</updated>
-      <workItem from="1573630081077" duration="6072000" />
+      <workItem from="1573630081077" duration="9867000" />
     </task>
     <servers />
   </component>
